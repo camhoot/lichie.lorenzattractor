@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/77128423/124222029-d5e17800-daf8-11eb-84be-57e05103cb75.png)
 
 A chaotic modulation source for synthesizers
-standalone version of the attractor found in my granular synth patch.
+standalone version of the attractor found in my granular synth patch. This tool will be maintained and improved via this repository.
 
 ## Details
 
